@@ -90,8 +90,6 @@ This step will enable you to use the SQL Server Enterprise Manager on FE.
 -   Right-click **IIS Admin Service**, and then click **Stop**.
 -   Right-click **Update Services**, and then click **Stop**.
 
-        ```
-
 #### Step 4: Copy the SUSDB.mdf and SUSDB\_log.ldf files from FE to BE.
 
 -   In Step 2, you noted the folder location on FE where these files are stored. Copy the files to this folder on BE.
