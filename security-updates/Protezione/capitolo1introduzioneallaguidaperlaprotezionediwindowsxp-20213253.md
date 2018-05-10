@@ -13,14 +13,14 @@ Guida per la protezione di Windows XP
 
 ##### In questa pagina
 
-[](#ehaa)[Panoramica](#ehaa)
-[](#egaa)[Riepilogo generale](#egaa)
-[](#efaa)[Destinatari della guida](#efaa)
-[](#eeaa)[Ambito della guida](#eeaa)
-[](#edaa)[Panoramica dei capitoli](#edaa)
-[](#ecaa)[Contenuto del download](#ecaa)
-[](#ebaa)[Convenzioni di stile](#ebaa)
-[](#eaaa)[Riepilogo](#eaaa)
+[](#ehaa)[Panoramica](#ehaa)  
+[](#egaa)[Riepilogo generale](#egaa)  
+[](#efaa)[Destinatari della guida](#efaa)  
+[](#eeaa)[Ambito della guida](#eeaa)  
+[](#edaa)[Panoramica dei capitoli](#edaa)  
+[](#ecaa)[Contenuto del download](#ecaa)  
+[](#ebaa)[Convenzioni di stile](#ebaa)  
+[](#eaaa)[Riepilogo](#eaaa)  
 
 ### Panoramica
 
@@ -211,7 +211,7 @@ e nomi di file. Anche gli elementi dell'interfaccia utente sono riportati in gra
 <td style="border:1px solid black;">I segnaposto in corsivo e le parentesi ad angolo &lt;<em>nome file</em>&gt; rappresentano le variabili.</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>Monospace font</code></pre></td>
+<td style="border:1px solid black;"><pre>Monospace font</code></td>
 <td style="border:1px solid black;">Vengono definiti gli esempi di codice e di script.</td>
 </tr>
 <tr class="odd">
