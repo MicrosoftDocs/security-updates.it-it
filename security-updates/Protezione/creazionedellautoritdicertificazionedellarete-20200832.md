@@ -6,7 +6,7 @@ ms:contentKeyID: 20200832
 ms:mtpsurl: 'https://technet.microsoft.com/it-it/library/Dd536233(v=TechNet.10)'
 ---
 
-Protezione delle reti LAN senza fili con PEAP e password
+Protezione delle reti LAN senza fili con PEAP e password  
 ========================================================
 
 ### Capitolo 4: Creazione dell'autorità di certificazione della rete
@@ -15,14 +15,14 @@ Aggiornato: 3 aprile 2004
 
 ##### In questa pagina
 
-[](#ehaa)[Cenni preliminari](#ehaa)
-[](#egaa)[Prima di iniziare](#egaa)
-[](#efaa)[Operazioni preliminari per l'implementazione](#efaa)
-[](#eeaa)[Controllo dell'ambiente prima dell'installazione](#eeaa)
-[](#edaa)[Installazione di Servizi certificati](#edaa)
-[](#ecaa)[Configurazione della CA](#ecaa)
-[](#ebaa)[Riepilogo](#ebaa)
-[](#eaaa)[Riferimenti](#eaaa)
+[](#ehaa)[Cenni preliminari](#ehaa)  
+[](#egaa)[Prima di iniziare](#egaa)  
+[](#efaa)[Operazioni preliminari per l'implementazione](#efaa)  
+[](#eeaa)[Controllo dell'ambiente prima dell'installazione](#eeaa)  
+[](#edaa)[Installazione di Servizi certificati](#edaa)  
+[](#ecaa)[Configurazione della CA](#ecaa)  
+[](#ebaa)[Riepilogo](#ebaa)  
+[](#eaaa)[Riferimenti](#eaaa)  
 
 ### Cenni preliminari
 
@@ -264,8 +264,7 @@ Mediante la seguente procedura è possibile verificare se l'installazione di Ser
 3.  Fare clic sulla scheda **Generale** del certificato, quindi verificare che i valori visualizzati corrispondano a quelli riportati nella tabella seguente.
   
     **Tabella 4.3 Proprietà del certificato della CA**
-
- 
+    
     <table style="border:1px solid black;">
     <colgroup>
     <col width="50%" />
