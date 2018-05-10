@@ -11,14 +11,14 @@ Configurazione di Windows Firewall mediante Criteri di gruppo in aziende di picc
 
 ##### In questa pagina
 
-[](#ehaa)[Introduzione](#ehaa)
-[](#egaa)[Prima di iniziare](#egaa)
-[](#efaa)[Installazione degli aggiornamenti rapidi per le workstation amministrative e per Windows Small Business Server 2003](#efaa)
-[](#eeaa)[Creazione e aggiornamento degli oggetti Criteri di gruppo](#eeaa)
-[](#edaa)[Configurazione delle impostazioni di Windows Firewall mediante Criteri di gruppo](#edaa)
-[](#ecaa)[Applicazione della configurazione tramite GPUpdate](#ecaa)
-[](#ebaa)[Verifica dell'applicazione delle impostazioni di Windows Firewall](#ebaa)
-[](#eaaa)[Informazioni correlate](#eaaa)
+[](#ehaa)[Introduzione](#ehaa)  
+[](#egaa)[Prima di iniziare](#egaa)  
+[](#efaa)[Installazione degli aggiornamenti rapidi per le workstation amministrative e per Windows Small Business Server 2003](#efaa)  
+[](#eeaa)[Creazione e aggiornamento degli oggetti Criteri di gruppo](#eeaa)  
+[](#edaa)[Configurazione delle impostazioni di Windows Firewall mediante Criteri di gruppo](#edaa)  
+[](#ecaa)[Applicazione della configurazione tramite GPUpdate](#ecaa)  
+[](#ebaa)[Verifica dell'applicazione delle impostazioni di Windows Firewall](#ebaa)  
+[](#eaaa)[Informazioni correlate](#eaaa)  
 
 ### Introduzione
 
@@ -332,8 +332,7 @@ Dopo aver completato la procedura descritta di seguito per configurare le impost
     Nella tabella seguente sono elencate le impostazioni consigliate di Criteri di gruppo per Windows Firewall relativamente al profilo di dominio e al profilo predefinito.
   
     **Tabella 2. Impostazioni consigliate di Windows Firewall**
-
- 
+    
     <table style="border:1px solid black;">
     <colgroup>
     <col width="25%" />
