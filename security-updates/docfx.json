@@ -35,6 +35,7 @@
     "globalMetadata": {
       "layout": "Conceptual",
       "breadcrumb_path": "/security-updates/breadcrumb/toc.json",
+	  "extendBreadcrumb": "true",
       "ms.date": "10/11/2017",
       "ms.topic": "article",
       "ms.service": "Security",

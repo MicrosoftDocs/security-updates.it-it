@@ -1,5 +1,0 @@
-08_24_2017_04_39_52	ms14056-63172018	https://technet.microsoft.com/it-IT/Dn817440.note(it-IT,Security.10).gif
-08_24_2017_04_39_52	ms14058-63172020	https://technet.microsoft.com/it-IT/Dn832052.note(it-IT,Security.10).gif
-08_24_2017_04_39_52	ms14033-62490108	https://technet.microsoft.com/it-IT/Dn727227.note(it-IT,Security.10).gif
-08_24_2017_04_39_52	ms14005-61598021	https://technet.microsoft.com/it-IT/Dn613825.note(it-IT,Security.10).gif
-08_24_2017_04_39_52	2871997-62292147	https://technet.microsoft.com/it-IT/Dn690109.note(it-IT,Security.10).gif
